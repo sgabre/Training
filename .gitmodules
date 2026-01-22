@@ -1,0 +1,9 @@
+[submodule "Tests/TestFramework/Unity"]
+	path = Tests/TestFramework/Unity
+	url = https://github.com/ThrowTheSwitch/Unity.git
+[submodule "Tests/TestFramework/CMock"]
+	path = Tests/TestFramework/CMock
+	url = https://github.com/ThrowTheSwitch/CMock.git
+[submodule "Tests/TestFramework/CException"]
+	path = Tests/TestFramework/CException
+	url = https://github.com/ThrowTheSwitch/CException.git

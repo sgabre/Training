@@ -1,0 +1,6 @@
+:cmock:
+  :mock_path: Tests/Mocks/Dumber
+  :verbosity: 3
+  :plugins:
+    - :ignore
+    - :callback
